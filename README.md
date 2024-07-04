@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikur07&label=Profile%20views&color=0e75b6&style=flat"
     alt="ashikur07" /> </p>
 
-- 🔭 I’m currently building project using MongoDB,Express,React & Node.js
+- 🔭 I’m currently building project using MongoDB, Express, React & Node.js
 
 - 🌱 I’m currently learning React & Node.js
 
@@ -37,7 +37,7 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://i.ibb.co/C0r1VxM/image.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
       alt="express" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank"
     rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
       height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
