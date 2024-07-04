@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
 <h3 align="center">A Passionate full stack developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="350" height="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikur07&label=Profile%20views&color=0e75b6&style=flat"
     alt="ashikur07" /> </p>
 
@@ -13,7 +15,7 @@
 
 - 💬 Ask me about React
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at </br>
 [https://portfolio-by-ashik.netlify.app](https://portfolio-by-ashik.netlify.app)
 
 - 📄 Know about my experiences
@@ -70,7 +72,7 @@
   <span style="display: inline-block; font-size: 32px; font-weight: bold; vertical-align: middle; margin-top: 8px;">Express</span>
 </p>
 
-##
+## <h3 align="left">Github Status : </h3>
  <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact"
     alt="ashikur07" /></p>
