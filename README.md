@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashikur07/Ashikur07/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
 <h3 align="center">A Passionate full stack developer from Bangladesh</h3>
 
