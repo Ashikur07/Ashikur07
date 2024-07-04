@@ -87,6 +87,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=000000&ring=f97316&fire=f97316&currStreakLabel=f97316&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&stroke=30363d&border=30363d" alt="ashikur07" /></p>
 -->
 
+<br>
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -112,10 +113,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Used Language</strong></h3>
       <p align="center">
         <a href="https://github.com/Ashikur07/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashikur07&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
         </a>
       </p>
     </td>
