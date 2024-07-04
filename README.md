@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikur07&label=Profile%20views&color=0e75b6&style=flat" alt="ashikur07" /> </p>
 
+- 🔭 I’m currently building project using MongoDB,Express,React & Node.js
+  
+- 🌱 I’m currently learning React & Node.js
+  
+- 👯 I’m looking to collaborate on Full Stack Project
+  
+- 💬 Ask me about React
+
 - 👨‍💻 All of my projects are available at [https://portfolio-by-ashik.netlify.app](https://portfolio-by-ashik.netlify.app)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view](https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view)
