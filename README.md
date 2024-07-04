@@ -36,8 +36,8 @@
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img style="color: white;"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+      src="https://i.ibb.co/zH41x5F/express.png"
       alt="express" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank"
     rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
       height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
