@@ -22,18 +22,11 @@
 - 📄 Know about my experiences
 [https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view](https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view)
 
-## <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ashik43" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ashik43" height="30" width="40" /></a>
-  <a href="https://fb.com/ashik.iuict.bd" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ashik.iuict.bd" height="30" width="40" /></a>
-</p>
+<br>
+<br>
 
-## <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2 align="center">🛠 Languages and Tools 🛠</h2>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
@@ -73,23 +66,27 @@
   <span style="display: inline-block; font-size: 32px; font-weight: bold; vertical-align: middle; margin-top: 8px;">Express</span>
 </p>
 
-<!--
-## <h3 align="left">Github Status:</h3>
+<br>
+<br>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=f97316&title_color=f97316&border_color=30363d"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
     alt="ashikur07" /></p>
     
 <!--
 <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=ashikur07&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=f97316&title_color=f97316&border_color=30363d" alt="ashikur07" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=000000&ring=f97316&fire=f97316&currStreakLabel=f97316&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&stroke=30363d&border=30363d" alt="ashikur07" /></p>
 -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="ashikur07" /></p>
+
+
+<br>
 <br>
 
-<!--Github stats Table--> 
+<!--
+<!--Github stats Table
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -131,6 +128,7 @@
   </tr>
 </table>
 
+-->
 
 
 <br>
@@ -140,3 +138,52 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikur07&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
+---
+
+<br>
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+<br>
+
+
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:ashik.ict.iu@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="ashik.ict.iu@gmail.com" style="margin: 20px;" />
+</a>
+
+<a href="https://github.com/Ashikur07" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Ashikur07" style="margin: 20px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/ashik43" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin: 20px;" />
+</a>
+
+</div>
+<br/>
+
+
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
