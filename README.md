@@ -1,4 +1,5 @@
 ![logo](https://github.com/Ashikur07/Ashikur07/blob/main/github_new_banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Ashikur Rahaman</h1>
 <h3 align="center">A Passionate full stack developer from Bangladesh</h3>
 
@@ -7,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikur07&label=Profile%20views&color=0e75b6&style=flat"
     alt="ashikur07" /> </p>
 
-- 🔭 I’m currently building project using MongoDB, Express, React & Node.js
+- 🔭 I’m currently building project using <b>MongoDB, Express, React & Node.js</b>
 
-- 🌱 I’m currently learning React & Node.js
+- 🌱 I’m currently learning <b>React & Node.js</b>
 
-- 👯 I’m looking to collaborate on Full Stack Project
+- 👯 I’m looking to collaborate on <b>Full Stack</b> Project
 
-- 💬 Ask me about React
+- 💬 Ask me about <b>React</b>
 
 - 👨‍💻 All of my projects are available at </br>
 [https://portfolio-by-ashik.netlify.app](https://portfolio-by-ashik.netlify.app)
@@ -72,13 +73,13 @@
   <span style="display: inline-block; font-size: 32px; font-weight: bold; vertical-align: middle; margin-top: 8px;">Express</span>
 </p>
 
-## <h3 align="left">Github Status : </h3>
- <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact"
+## <h3 align="left">Github Status:</h3>
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=f97316&title_color=f97316&border_color=30363d"
     alt="ashikur07" /></p>
-
+<!--
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ashikur07&show_icons=true&locale=en" alt="ashikur07" /></p>
+    src="https://github-readme-stats.vercel.app/api?username=ashikur07&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=f97316&title_color=f97316&border_color=30363d" alt="ashikur07" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&" alt="ashikur07" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=000000&ring=f97316&fire=f97316&currStreakLabel=f97316&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&stroke=30363d&border=30363d" alt="ashikur07" /></p>
