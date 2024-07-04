@@ -37,7 +37,7 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://i.ibb.co/zH41x5F/express.png"
+      src="https://i.ibb.co/C0r1VxM/image.png"
       alt="express" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank"
     rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
       height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
