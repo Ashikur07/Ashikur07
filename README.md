@@ -153,8 +153,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 #### 🕒 Total Coding Hours: 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2058%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/b03ab237-9500-4c18-be53-393092ab2db5.svg)](https://wakatime.com/@Ashikur07)
+
 
 
 
