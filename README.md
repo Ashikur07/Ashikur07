@@ -142,6 +142,21 @@
 
 <br>
 
+### Coding Journey 🚀
+#### This Week:
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+#### 🕒 Total Coding Hours: 
+[![wakatime](https://wakatime.com/badge/user/b03ab237-9500-4c18-be53-393092ab2db5.svg)](https://wakatime.com/@b03ab237-9500-4c18-be53-393092ab2db5)
+
+
+
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
