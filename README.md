@@ -147,9 +147,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 46 mins   ██████████████████████▓░░   90.70 %
-Python       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   3 hrs 1 min     █████████████████████▓░░░   86.18 %
+Python       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
 ```
 
 <!--END_SECTION:waka-->
