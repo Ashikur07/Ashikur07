@@ -147,11 +147,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   22 hrs 59 mins  ██████████████████████▓░░   90.94 %
-Other        2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   25 hrs 47 mins  ██████████████████████▓░░   91.03 %
+Other        2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
