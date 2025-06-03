@@ -147,8 +147,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   15 mins         ████████████▓░░░░░░░░░░░░   50.82 %
-SQL        15 mins         ████████████▒░░░░░░░░░░░░   49.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
