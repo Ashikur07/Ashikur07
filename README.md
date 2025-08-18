@@ -24,7 +24,7 @@
 
 <br>
 <br>
-
+<!-- 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -65,22 +65,45 @@
   </a>
   <span style="display: inline-block; font-size: 32px; font-weight: bold; vertical-align: middle; margin-top: 8px;">Express</span>
 </p>
+-->
+
+<!-- star tech new -->
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![DaisyUI](https://img.shields.io/badge/daisyui-%236B21A8.svg?style=for-the-badge&logo=daisyui&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+
+
 
 <br>
 <br>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
-    alt="ashikur07" /></p>
-    
-<!--
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ashikur07&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=f97316&title_color=f97316&border_color=30363d" alt="ashikur07" /></p>
--->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="ashikur07" /></p>
+<div align="center">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ashikur07" />
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="ashikur07" />
+
+</div>
 
 <br>
 <br>
