@@ -8,19 +8,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikur07&label=Profile%20views&color=0e75b6&style=flat"
     alt="ashikur07" /> </p>
 
-- 🔭 I’m currently building project using <b>MongoDB, Express, React & Node.js</b>
+- 🔭 I’m currently building project using <b>MongoDB, Express, React & Node.js</b>  
 
-- 🌱 I’m currently learning <b>React & Node.js</b>
+- 🌱 I’m currently learning <b>React & Node.js</b>  
 
-- 👯 I’m looking to collaborate on <b>Full Stack</b> Project
+- 👯 I’m looking to collaborate on <b>Full Stack</b> Project  
 
-- 💬 Ask me about <b>React</b>
+- 💬 Ask me about <b>React</b>  
 
-- 👨‍💻 All of my projects are available at </br>
-[https://portfolio-by-ashik.netlify.app](https://portfolio-by-ashik.netlify.app)
+- 👨‍💻 All of my projects → [Visit Portfolio 🚀](https://ashik-portfolio-eight.vercel.app)  
 
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view](https://drive.google.com/file/d/1CKOkeRWD4lUh2QDbaXLIBUzSPfxth1sw/view)
+- 📄 My Resume → [View Resume 📑](https://drive.google.com/file/d/1So9CZssa9kMehBOpI8aZrPV5AgBJiSk8/view)  
+
+
 
 <br>
 <br>
