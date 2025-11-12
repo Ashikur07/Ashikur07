@@ -179,11 +179,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    3 hrs 5 mins    ████████████████████▒░░░░   81.00 %
-Image (svg)   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Bash          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Other         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-JSON          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
