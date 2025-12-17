@@ -1,27 +1,40 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every day at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual trigger
+  # Protidin rat 12 tay auto run hobe
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Tumi chaile manually run korte parbe
+  workflow_dispatch:
+  
+  # Main branch e push holeo run hobe
+  push:
+    branches:
+    - main
+    - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate GitHub contribution grid snake
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Ashikur07
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated files to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
