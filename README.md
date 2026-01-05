@@ -112,13 +112,18 @@
 <table align="center">
   <tr>
     <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&show_icons=true&locale=en&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="ashikur07" />
+      <img height="150em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikur07&layout=compact&bg_color=000000&title_color=c56a90&text_color=ffffff" 
+     alt="ashikur07" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="ashikur07" />
+      <img height="180em" 
+           src="https://github-readme-streak-stats-eight.vercel.app/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
+           alt="ashikur07" />
     </td>
   </tr>
 </table>
+
 
 
 
