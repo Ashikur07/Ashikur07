@@ -198,10 +198,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       29 mins               ███████████░░░░░░░░░░░░░░   43.93 %
-CSV          21 mins               ████████▒░░░░░░░░░░░░░░░░   32.98 %
-Markdown     15 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
